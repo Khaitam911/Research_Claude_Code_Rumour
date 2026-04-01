@@ -1,2 +1,2 @@
-# Research_Claude_Code_Rumour-
+# Research_Claude_Code_Rumour
 Research about CC
